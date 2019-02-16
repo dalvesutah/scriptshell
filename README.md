@@ -1,0 +1,2 @@
+# scriptshell
+script shell wine
